@@ -1,0 +1,64 @@
+#navbarSupportedContent ul li a{
+	
+	font-weight: bold;
+	color: black;
+	
+}
+.navbar-brand{
+	color:#17a2b8 !important;
+	font-size: 50px !important;
+	font-weight: 700 !important;
+}
+.logo img{
+	width: 40px;
+
+}
+.navbtn{
+	background:#17a2b8 !important;
+	border-radius: 30px !important;
+	border-top-right-radius:  30px !important;	
+}
+.main{
+	background:#17a2b8 !important ;
+	padding: 30px !important;
+}
+.btn-dark{
+	border-radius: 30px !important;
+}
+.img img{
+	width: 400px;
+	margin-top: 20px;
+}
+#icon1{
+	font-weight: 400px !important;
+	font-size: 500px !important;
+
+}
+
+.para1 p{
+      font-family: Nunito, sans-serif;
+}
+.pr-5{
+	padding-right:0.5rem !important;
+}
+.chek1 i{
+       color:#17a2b8!important ;
+}
+.section-title {
+    position: relative;
+    display: inline-block;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #17a2b8;
+}
+section-title span {
+    position: relative;
+    background: #ffffff;
+    z-index: 1;
+}
+.heading h1{
+	    font-family: Handlee, cursive !important;
+}
+.teamimg img{
+	border-radius: 50% !important;
+}
